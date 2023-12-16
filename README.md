@@ -6,7 +6,7 @@ This study utilizes a public dataset of **273 Mexican mestizo CIS patients** wit
 An explainable machine learning model, **Extreme Gradient Boosting (XGBoost)**, was employed for the analysis. Feature importance was determined using the **SHapley Additive Explanations library (SHAP)**. 
 
 ### Dataset:
-The dataset used in this study can be found [](https://data.mendeley.com/datasets/8wk5hjx7x2/1).
+The dataset used in this study can be found [here](https://data.mendeley.com/datasets/8wk5hjx7x2/1).
 
 ### Demo:
-A web-based demo of the model is available for testing  [Here](https://huggingface.co/spaces/rasoulisaeid/cis2ms).
+A web-based demo of the model is available for testing [here](https://huggingface.co/spaces/rasoulisaeid/cis2ms).
